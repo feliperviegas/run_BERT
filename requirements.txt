@@ -1,0 +1,17 @@
+numpy>=1.15.0
+pandas==1.0.5
+scipy==1.4.1
+nltk==3.4
+scikit-learn==0.21.3
+argparse
+matplotlib
+pyparsing
+cycler
+six>=1.12.0
+python-dateutil
+pytz
+gensim
+seaborn
+spacy
+setuptools>=41.0.0
+ktrain==0.18.3
